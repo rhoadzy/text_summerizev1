@@ -1,0 +1,5 @@
+python 
+streamlit 
+langchain 
+langchain-openai 
+tiktoken 
